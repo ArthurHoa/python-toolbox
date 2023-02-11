@@ -1,2 +1,7 @@
-# python-toolbox
-Python toolbox with many different things
+# Python toolbox
+
+This repository contains all usefull ressources I can use in python.
+
+### Projetcs
+
+- *PCA* runs a Principal Component Analysis and print the result on the 2 first components.
